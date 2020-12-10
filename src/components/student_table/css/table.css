@@ -1,0 +1,9 @@
+.global-filter{
+  display: flex;
+  justify-content: flex-end;
+  margin: 10px;
+}
+.global-filter input {
+  width: 300px;
+}
+
